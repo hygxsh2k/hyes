@@ -1,1 +1,1 @@
-# hyes
+# hyes - Haskell implementation of yes
