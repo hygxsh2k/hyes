@@ -1,6 +1,5 @@
 # hyes - Haskell implementation of yes
 
-
 Usage: hyes [-v|--version] [STRING]
 
 Available options:
